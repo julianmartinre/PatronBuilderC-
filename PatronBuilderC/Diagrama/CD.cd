@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PatronBuilderC.Diagrama.Concecionaria">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagrama\Concecionaria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronBuilderC.Diagrama.EnduroBuilder">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagrama\EnduroBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronBuilderC.Diagrama.Moto">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgACAAAAAAAAAAEAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Diagrama\Moto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronBuilderC.Diagrama.MotoBuilder">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAIAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagrama\MotoBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronBuilderC.Diagrama.PisteroBuilder">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagrama\PisteroBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatronBuilderC.Diagrama.ScooterBuilder">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagrama\ScooterBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
